@@ -40,12 +40,13 @@ public class SecondLargestUnique {
 
         int[] arr1 = { 3, 5, 2, 5, 6, 6, 1 };
         System.out.println("Input: [3, 5, 2, 5, 6, 6, 1]");
-        System.out.println("Output: " + findSecondLargest(arr1)); // 5
+        System.out.println("Output: " + findSecondLargest(arr1)); 
 
         int[] arr2 = { 7, 7, 7 };
         System.out.println("\nInput: [7, 7, 7]");
-        System.out.println("Output: " + findSecondLargest(arr2)); // -1
+        System.out.println("Output: " + findSecondLargest(arr2)); 
     }
 }
+
 
 
